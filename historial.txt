@@ -1,0 +1,10 @@
+    1  ls
+    2  ls -la
+    3  cd repogit/
+    4  ls
+    5  git clone https://github.com/SantiCoch/Repo_Coch.git
+    6  ls
+    7  cd Repo_Coch/
+    8  ls
+    9  history
+   10  history > historial.txt
